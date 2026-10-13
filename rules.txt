@@ -1,0 +1,10 @@
+Blackjack rules (rules will be shown for the next 10 seconds): 
+1. No splitting cards (If you have two of the same cards).
+2. You can always choice to double down if your bet multiplied by 2 is less then your over all money.
+3. You lose if your over 21.
+4. Your only playing against the dealer. one player game.
+5. Dealer always hits for card if dealers sum is 16 or less.
+6. There will be ten cards in the place of kings, queens, and jacks. 
+7. If your cards and the deals cards are the same value its a tie and no one gets money.
+8. Aces are value of 11 unless your over 21, then they're value of 1.
+9. There is a scoreboard of the top player.(You will either beat it or see last high score)

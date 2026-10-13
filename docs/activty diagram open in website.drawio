@@ -1,0 +1,494 @@
+<mxfile host="app.diagrams.net" modified="2023-06-22T23:36:20.376Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lI8tyQM0chGbvmyQ8Us1" version="21.5.0" type="device">
+  <diagram name="Page-1" id="khtg0XHY_bMxqryo7pRV">
+    <mxGraphModel dx="1272" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HIDoT4t5zym8WBNXzirP-120" value="get name  from player" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=gE.8Praq5yi8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.019;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-121" target="HIDoT4t5zym8WBNXzirP-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-121" value="random amount of money (2000-10000) given to player to bet" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=hE.8gx93wv7r;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="135" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-122" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.971;exitY=0.305;exitPerimeter=0;entryX=0.003;entryY=0.392;entryPerimeter=0;lucidId=YE.8AP3aRGRY;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-120" target="HIDoT4t5zym8WBNXzirP-121">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-124" value="ask how much they want to bet" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=LS.81eEGo_L2;" vertex="1" parent="1">
+          <mxGeometry x="495" y="180" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-125" value="if they dont have that much money" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=.S.8vIS0wefu;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-126" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.616;exitY=0.001;exitPerimeter=0;lucidId=9T.8o~Ed0CE9;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-125" target="HIDoT4t5zym8WBNXzirP-124">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="340" />
+              <mxPoint x="420" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-132" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;lucidId=bW.8Tptq8yq8;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-241" target="HIDoT4t5zym8WBNXzirP-134">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="210" />
+              <mxPoint x="130" y="340" />
+            </Array>
+            <mxPoint x="150" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-133" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;doesnt have money or didnt want to play&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="HIDoT4t5zym8WBNXzirP-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-134" value="tell the player good bye and how much they have left" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=dW.8ZHOCPWhG;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-135" value="hand out two cards and show the dealers first card and show the players two card" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=yW.84xP4Siuu;" vertex="1" parent="1">
+          <mxGeometry x="390" y="405" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-139" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.05;exitY=0.6;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;lucidId=LZ.85qJ3o9P3;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-251" target="HIDoT4t5zym8WBNXzirP-141">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="720.1200000000003" y="699.1199999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-140" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;if bet is less then half &lt;br&gt;the amount of money player has&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="HIDoT4t5zym8WBNXzirP-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-141" value="ask if they want to doube down there bet and get only one more card" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=NZ.8NVIGtsr9;" vertex="1" parent="1">
+          <mxGeometry x="175" y="627.5" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-146" value="ask if they would like to hit for another card" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=U1.822x5L0hl;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-151" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;lucidId=_2.8hTh4pLJ3;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;entryX=0.381;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-257" target="HIDoT4t5zym8WBNXzirP-152">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="880" />
+              <mxPoint x="371" y="880" />
+            </Array>
+            <mxPoint x="370" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-286" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Picked stay&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-151">
+          <mxGeometry x="-0.2267" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-152" value="they said stay" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=d3.8cmyFw4vf;" vertex="1" parent="1">
+          <mxGeometry x="325" y="920" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-154" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0;entryX=0.5;entryY=-0.013;entryPerimeter=0;lucidId=O3.8wQD1mKRD;exitDx=0;exitDy=0;" edge="1" parent="1" target="HIDoT4t5zym8WBNXzirP-156">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="810" />
+              <mxPoint x="490" y="810" />
+            </Array>
+            <mxPoint x="425" y="812.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-303" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HIT&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-154">
+          <mxGeometry x="-0.349" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-156" value="give player another card" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=Q3.8AFaHctvv;" vertex="1" parent="1">
+          <mxGeometry x="450" y="840" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-157" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.013;entryPerimeter=0;lucidId=23.8.AunGW3h;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-156" target="HIDoT4t5zym8WBNXzirP-159">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-159" value="check to see if players cards are over 21" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=43.8na9k0Vx9;" vertex="1" parent="1">
+          <mxGeometry x="597" y="820" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-166" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=1.009;entryY=0.5;entryPerimeter=0;lucidId=.6.85ZKG9Ilr;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-271" target="HIDoT4t5zym8WBNXzirP-146">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="970" />
+              <mxPoint x="730" y="770" />
+              <mxPoint x="431" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-287" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;not over 21&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-166">
+          <mxGeometry x="-0.6723" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-167" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=0.931;entryY=0.774;entryPerimeter=0;lucidId=17.8jj1hvO~w;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-271" target="HIDoT4t5zym8WBNXzirP-152">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="980" />
+              <mxPoint x="530" y="990" />
+            </Array>
+            <mxPoint x="707" y="1378.44" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-168" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;player is over 21&lt;/font&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="HIDoT4t5zym8WBNXzirP-167">
+          <mxGeometry x="-0.3191638662630333" relative="1" as="geometry">
+            <mxPoint x="-27" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-169" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.181;exitY=0.967;exitPerimeter=0;entryX=1;entryY=0.5;lucidId=_7.8IUvMWGB7;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-152" target="HIDoT4t5zym8WBNXzirP-171">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="1010" />
+              <mxPoint x="235" y="1010" />
+              <mxPoint x="235" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-171" value="if player over 21 " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=~7.8-IgrQuNu;" vertex="1" parent="1">
+          <mxGeometry x="80" y="940" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-172" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.403;exitPerimeter=0;entryX=0.5;entryY=0;lucidId=G8.80WU1tTNQ;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-260" target="HIDoT4t5zym8WBNXzirP-178">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="376.0799999999999" y="1635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-288" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;is over 21&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-172">
+          <mxGeometry x="-0.0129" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-178" value="tell the player they lost and how much money they have left overare" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=Y8.8E12stdzF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1285" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-179" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.693;exitY=0.97;exitPerimeter=0;entryX=0.5;entryY=-0.013;entryPerimeter=0;lucidId=j9.85ACFVapK;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-178" target="HIDoT4t5zym8WBNXzirP-181">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-181" value="ask if they would like to play again" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=k9.8PcXT89.w;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1470" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-182" target="HIDoT4t5zym8WBNXzirP-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-182" value="are the players cards sum bigger then dealers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=V9.8OYW7h6m3;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1390" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-186" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=-0.011;entryPerimeter=0;lucidId=Y-.8LtrPuJT6;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-264" target="HIDoT4t5zym8WBNXzirP-188">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-187" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;if yes&lt;/font&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="HIDoT4t5zym8WBNXzirP-186">
+          <mxGeometry x="-0.24574178699475857" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-188" value="tell the player they won and how much money they got" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=0-.8nKka4gC7;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1650" width="135" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-189" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.12;exitY=0.839;exitPerimeter=0;entryX=0.972;entryY=0.694;entryPerimeter=0;lucidId=z~.8yh_CaMHO;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-188" target="HIDoT4t5zym8WBNXzirP-181">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-190" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;lucidId=T~.8mb6jSRh7;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-267" target="HIDoT4t5zym8WBNXzirP-134">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="2010" />
+              <mxPoint x="60" y="2010" />
+            </Array>
+            <mxPoint x="70" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-323" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;they dont want to play again&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-190">
+          <mxGeometry x="-0.8932" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=4;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-199" target="HIDoT4t5zym8WBNXzirP-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-199" value="while the player has money and wants to play" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=tf~8~1JRnkOc;" vertex="1" parent="1">
+          <mxGeometry x="355" y="29.5" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-200" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;lucidId=Mf~8WU7xhHVY;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-241" target="HIDoT4t5zym8WBNXzirP-124">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="220" />
+              <mxPoint x="280" y="220" />
+              <mxPoint x="280" y="225" />
+            </Array>
+            <mxPoint x="385" y="170" as="sourcePoint" />
+            <mxPoint x="760" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-201" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Has money and &lt;br&gt;wants to play&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontColor=#333333;fontSize=13;" vertex="1" parent="HIDoT4t5zym8WBNXzirP-200">
+          <mxGeometry x="-0.3471629964356929" relative="1" as="geometry">
+            <mxPoint x="25" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-203" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;lucidId=uh~8G_mtAPsr;exitDx=0;exitDy=0;entryX=0.439;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-255" target="HIDoT4t5zym8WBNXzirP-146">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="810" />
+              <mxPoint x="280" y="810" />
+              <mxPoint x="280" y="790" />
+              <mxPoint x="290" y="790" />
+              <mxPoint x="290" y="740" />
+              <mxPoint x="363" y="740" />
+            </Array>
+            <mxPoint x="470" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-291" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;If not&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-203">
+          <mxGeometry x="-0.1471" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-208" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;lucidId=_h~8MTwQ5zp-;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-255" target="HIDoT4t5zym8WBNXzirP-212">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="343.03999999999996" y="992.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-292" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;If yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-208">
+          <mxGeometry x="-0.2705" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.003;entryY=0.33;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;strokeWidth=2;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-212" target="HIDoT4t5zym8WBNXzirP-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-212" value="give player one more card and bet times two" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=pi~805XY-bOs;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="850" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-216" value="get the dealer to hit if the sum of dealers cards are 16 or under" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=2.3;lucidId=1j~87YPFoX4F;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1130" width="131" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-217" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;entryX=1;entryY=0.5;lucidId=Ak~8n0vxC0Eq;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-264" target="HIDoT4t5zym8WBNXzirP-178">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="580" y="1870" as="sourcePoint" />
+            <mxPoint x="480" y="1771.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-290" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;If not&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-217">
+          <mxGeometry x="0.1204" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-220" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=4;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=1.009;entryY=0.5;entryPerimeter=0;lucidId=An~8QCF9AT7l;dashPattern=12 12;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-267" target="HIDoT4t5zym8WBNXzirP-199">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2000" />
+              <mxPoint x="810" y="80" />
+            </Array>
+            <mxPoint x="932.8799999999997" y="2191.2900000000004" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-325" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;they want to play again&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-220">
+          <mxGeometry x="-0.9391" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-102" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-222" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.038;exitY=0.716;exitPerimeter=0;lucidId=vo~87Nxdwarb;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-134" target="HIDoT4t5zym8WBNXzirP-230">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="404" />
+              <mxPoint x="20" y="2122" />
+            </Array>
+            <mxPoint x="360" y="2545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-230" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2050" width="135" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-238" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry y="10" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-239" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=-0.025;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="HIDoT4t5zym8WBNXzirP-238" parent="1" target="HIDoT4t5zym8WBNXzirP-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-241" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-245" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-248" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-245" target="HIDoT4t5zym8WBNXzirP-125">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="500" as="sourcePoint" />
+            <mxPoint x="870" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-283" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;They bet to high&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-248">
+          <mxGeometry x="0.0964" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-249" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-124" target="HIDoT4t5zym8WBNXzirP-245">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1015" y="580" as="sourcePoint" />
+            <mxPoint x="655" y="526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-250" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.316;entryY=0.042;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-245" target="HIDoT4t5zym8WBNXzirP-135">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1025" y="590" as="sourcePoint" />
+            <mxPoint x="665" y="536" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-284" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;They bet&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-250">
+          <mxGeometry x="-0.2471" y="3" relative="1" as="geometry">
+            <mxPoint x="-18" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-251" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-252" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.217;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-135" target="HIDoT4t5zym8WBNXzirP-251">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1035" y="600" as="sourcePoint" />
+            <mxPoint x="675" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-253" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.683;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.283;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-251" target="HIDoT4t5zym8WBNXzirP-146">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480.99999999999994" y="594.1600000000001" as="sourcePoint" />
+            <mxPoint x="593.7995998592164" y="679.9997065634254" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-285" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;if the bet is more then half&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-253">
+          <mxGeometry x="-0.2772" y="1" relative="1" as="geometry">
+            <mxPoint x="106" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-255" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="105" y="800" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-256" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-141" target="HIDoT4t5zym8WBNXzirP-255">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1065" y="630" as="sourcePoint" />
+            <mxPoint x="705" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-257" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="325" y="762.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-259" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.603;entryY=0.065;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-146" target="HIDoT4t5zym8WBNXzirP-257">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1085" y="650" as="sourcePoint" />
+            <mxPoint x="725" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-260" target="HIDoT4t5zym8WBNXzirP-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-307" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;not over 21&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-306">
+          <mxGeometry x="-0.364" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-260" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-263" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-171" target="HIDoT4t5zym8WBNXzirP-260">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="790" y="1400" as="sourcePoint" />
+            <mxPoint x="950" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-264" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="1390" width="75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-267" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1950" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-268" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.428;exitY=0.981;exitPerimeter=0;lucidId=9d~8CQcSNZIY;exitDx=0;exitDy=0;entryX=0.147;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-181" target="HIDoT4t5zym8WBNXzirP-267">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191" y="1890" />
+              <mxPoint x="580" y="1890" />
+              <mxPoint x="580" y="1980" />
+            </Array>
+            <mxPoint x="535" y="2250" as="sourcePoint" />
+            <mxPoint x="630" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-271" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="615" y="940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-272" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=2.3;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.583;exitY=0.993;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;lucidId=23.8.AunGW3h;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-159" target="HIDoT4t5zym8WBNXzirP-271">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="765" y="1217" as="sourcePoint" />
+            <mxPoint x="930" y="1294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-293" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1620" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-294" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-293" target="HIDoT4t5zym8WBNXzirP-182">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="1730" as="sourcePoint" />
+            <mxPoint x="750" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-297" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;dealers hand 17 or above&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-294">
+          <mxGeometry x="-0.2114" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-295" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-293" target="HIDoT4t5zym8WBNXzirP-216">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="1770" as="sourcePoint" />
+            <mxPoint x="940" y="1620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-298" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;dealers hand lower then 17&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIDoT4t5zym8WBNXzirP-295">
+          <mxGeometry x="-0.184" relative="1" as="geometry">
+            <mxPoint x="-85" y="-81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-296" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.4;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.662;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;strokeWidth=3;" edge="1" parent="1" source="HIDoT4t5zym8WBNXzirP-216" target="HIDoT4t5zym8WBNXzirP-293">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="890" y="1690" as="sourcePoint" />
+            <mxPoint x="760" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-311" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="990" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-314" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1030" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-315" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-195;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1040" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HIDoT4t5zym8WBNXzirP-320" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.8;dx=36;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
